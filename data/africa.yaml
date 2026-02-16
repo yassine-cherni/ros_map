@@ -4,6 +4,11 @@
   long: -0.578986
   description: hobbyist & researcher
   link: https://github.com/amineHorseman
+- name: GoMyRobot
+  type: company
+  lat: 36.509177
+  long: 8.792216
+  link: https://gomyrobot.com/
 - name: Mare Custos
   type: company
   lat: 36.83140894294208
